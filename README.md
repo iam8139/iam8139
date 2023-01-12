@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kargil
 - 👀 I’m interested in Software developement
-- 🌱 I’m currently learning Angular, Python and also the DevOps process
+- 🌱 I’m currently learning JAVA, Angular, Python and also the DevOps process
 - 💞️ I’m looking to collaborate on Java/Python based developement
 - 📫 How to reach me ...
 
