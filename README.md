@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Kargil
+### 👋 Hi, I’m Kargil!! (Yes, you have read it correctly 😊)
+  Hello, my name is **Kargil**, and I am working as a **Senior Product Engineer** at **LTIMINDTREE**. I am a qualified and professional Java backend developer with 4 years of experience, participating in various facets of the _Software Development Life Cycle (SDLC)_, including the POC phase, database design, development, testing, deployment and support for implementation at various clients. I have experience working in **Agile** methodology and in **DevOps** environments. My Technology stack involves **Java**, Spring, **SpringBoot**, **Maven**, Python, **Angular**, TypeScript, **PostgreSQL**, **MongoDB**, ArangoDB, and Apache NiFi. Apart from programming, I am immensely interested in **Sports** and **Drawing**.
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning JAVA, Angular, Python and also the DevOps process
 - 💞️ I’m looking to collaborate on Java/Python-based projects
