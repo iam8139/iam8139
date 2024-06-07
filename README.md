@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Kargil!! (Yes, you have read it correctly 😊)
-  Hello, I am **Kargil**, a **Senior Product Engineer** at **LTIMINDTREE**. I am a qualified and professional Java backend developer with 4 years of experience, participating in various facets of the _Software Development Life Cycle (SDLC)_, including the POC phase, database design, development, testing, deployment and support for implementation at various clients. I have experience working in **Agile** methodology and in **DevOps** environments. My Technology stack involves **Java**, Spring, **SpringBoot**, **Maven**, Python, **Angular**, TypeScript, **PostgreSQL**, **MongoDB**, ArangoDB, and Apache NiFi. Apart from programming, I am immensely interested in **Sports** and **Drawing**.
+  Hello, I am **Kargil**, a **Senior Product Engineer** at **LTIMINDTREE**. I am a qualified and professional Java backend developer with 4 years of experience, participating in various facets of the _Software Development Life Cycle (SDLC)_, including the POC phase, database design, development, testing, deployment and support for implementation at various clients. I have experience working in **Agile** methodology and **DevOps** environments. My Technology stack involves **Java**, Spring, **SpringBoot**, **Maven**, Python, **Angular**, TypeScript, **PostgreSQL**, **MongoDB**, ArangoDB, and Apache NiFi. Apart from programming, I am immensely interested in **Sports** and **Drawing**.
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning JAVA, Angular, Python and also the DevOps process
 - 💞️ I’m looking to collaborate on Java/Python-based projects
@@ -21,7 +21,7 @@
 </p>
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![Kargil's github stats](https://github-readme-stats.vercel.app/api?username=iam8139&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=black&bg_color=white&hide=issues&count_private=true&include_all_commits=true)
+![Kargil's github stats](https://github-readme-stats.vercel.app/api?username=iam8139&show_icons=true&title_color=#1098ad&icon_color=#1098ad&text_color=black&bg_color=white&hide=issues&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iam8139&layout=compact&text_color=black&bg_color=white)](https://github.com/iam8139/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iam8139&theme=light)](https://git.io/streak-stats)
 
